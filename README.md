@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/sPjx5bn"  ><a href="//imgur.com/a/sPjx5bn">CodePath Video Demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/a/sPjx5bn
 
 ## Notes
 
